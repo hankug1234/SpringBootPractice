@@ -1,0 +1,7 @@
+2023-11-02 21:49:20.319 [ INFO] [  restartedMain] c.c.i.SpringBootPracticeApplication      : Starting SpringBootPracticeApplication using Java 17.0.7 with PID 668999 (/home/hankug/sts-4.19.1.RELEASE/workspace/SpringBootPractice/bin/main started by hankug in /home/hankug/sts-4.19.1.RELEASE/workspace/SpringBootPractice)
+2023-11-02 21:49:20.320 [DEBUG] [  restartedMain] c.c.i.SpringBootPracticeApplication      : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-02 21:49:20.320 [ INFO] [  restartedMain] c.c.i.SpringBootPracticeApplication      : No active profile set, falling back to 1 default profile: "default"
+2023-11-02 21:49:20.467 [ INFO] [  restartedMain] c.c.i.SpringBootPracticeApplication      : Started SpringBootPracticeApplication in 0.233 seconds (process running for 0.516)
+2023-11-02 21:49:20.468 [ INFO] [  restartedMain] c.c.i.SpringBootPracticeApplication      : CommandLineRunner executed as a bean definition with1 arguments
+2023-11-02 21:49:20.468 [ INFO] [  restartedMain] c.c.i.SpringBootPracticeApplication      : Argument: --spring.output.ansi.enabled=always
+2023-11-02 21:49:20.468 [ INFO] [  restartedMain] c.c.i.SpringBootPracticeApplication      : CoureTRacnkerApplication started successfully with lg4j2 configuration
